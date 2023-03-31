@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Amanda: _________ Tiara?\nTiara: I live in Bogor.",
+    "answerOptions": [
+      { "answer": "How old are you" },
+      { "answer": "What`s your hobby" },
+      { "answer": "Where do you live", "isCorrect": true },
+      { "answer": "How do you spell your name" }
+    ]
+  },
+  {
+    "question": "Dika: Hello, my name is Dika. Are you a new student?\nAden: Yes, I`m Aden. Nice to meet you\nDika: Nice to meet you, too. I`m in that class\nAden: Me too\nFrom the dialog above, we can conclude that…",
+    "answerOptions": [
+        { "answer": "They have met before" },
+        { "answer": "They have known each other" },
+        { "answer": "They are not new students" },
+        { "answer": "They are in the same class", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What do you say if someone asks about your hobby?",
+    "answerOptions": [
+      { "answer": "My hobby lives in Malang" },
+      { "answer": "My hobby name is Tika" },
+      { "answer": "My hobby is cooking", "isCorrect": true },
+      { "answer": "My hobby is 10 years old" }
+    ]
+  },
+  {
+    "question": "What do you say if you want to ask someone`s name?",
+    "answerOptions": [
+        { "answer": "What is your name?", "isCorrect": true },
+      { "answer": "What is your hobby?" },
+      { "answer": "Where are you from?" },
+      { "answer": "How old are you?" }
+    ]
+  },
+  {
+    "question": "Amir: Welcome to this club, Eko.\nEko: Thank you Amir.\nAmir: By the way, where do you live, Eko? I think I saw you walking to school this morning.\nEko: I live in a school dormitory, so I walk to school because it's close.\nFrom the dialog above, it can conclude that…",
+    "answerOptions": [
+      { "answer": "Amir wants to know where Eko`s school is." },
+      { "answer": "Amir`s house is close to Eko`s house." },
+      { "answer": "Eko wants to live in the school dormitory." },
+      { "answer": "Amir wants to know where Eko lives.", "isCorrect": true }
+    ]
+  }
+]

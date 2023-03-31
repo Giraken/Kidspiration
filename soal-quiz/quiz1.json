@@ -1,11 +1,11 @@
 [
   {
-    "question": "Indi: Hello, Nana. Why do you look sad?\nNana: Hello, Indi. I forgot to bring my pencil color.\nIndi: Don`t be sad. You can borrow mine.\nNana: Really? Thanks a lot, Indi!\nIndi: You are welcome, Nana.\nFrom the dialog above, Nana is…",
+    "question": "You meet a friend on the way to school. What do you say?",
     "answerOptions": [
-      { "answer": "helping Indi" },
-      { "answer": "is apologizing to Indi" },
-      { "answer": "thanking Indi", "isCorrect": true },
-      { "answer": "greeting Indi" }
+      { "answer": "Good night" },
+      { "answer": "Nice to meet you" },
+      { "answer": "Good bye" },
+      { "answer": "Good morning", "isCorrect": true }
     ]
   },
   {
@@ -36,12 +36,12 @@
     ]
   },
   {
-    "question": "Sandra: Hi, Noah. I didn't expect to meet you in piano course\nNoah: Hello, Sandra. Yes, I just joined last week. How are you, Sandra?\nSandra: I’m very good.\nFrom the dialogue above it can be concluded that....",
+    "question": "Sandra: Hi, Noah. I didn't expect to meet you in piano course\nNoah: Hello, Sandra. Yes, I just joined last week. How are you, Sandra?\nSandra: I`m very good.\nFrom the dialogue above it can be concluded that....",
     "answerOptions": [
       { "answer": "Noah and Sandra learn piano together" },
       { "answer": "Sandra moves to piano course last week" },
       { "answer": "Sandra greets Noah first when they meet in piano course", "isCorrect": true },
-      { "answer": "Noah is Sandra’s old friend" }
+      { "answer": "Noah is Sandra`s old friend" }
     ]
   }
 ]

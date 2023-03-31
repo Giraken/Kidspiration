@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Maria: “Titanic” is the best movie ever.\nJane: I don't think so. It`s too long and I get bored.\nFrom the dialog above, we can assume that....",
+    "answerOptions": [
+      { "answer": "Jane doesn`t understand what Maria means." },
+      { "answer": "Jane is confused with Maria`s opinion" },
+      { "answer": "Jane likes Maria`s opinion. " },
+      {
+        "answer": "Jane disagrees with Maria`s opinion.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Sofia: I'm sure we will win the first position.\nFord: Well, I really disagree with you. We made a few mistakes in our project. \nFrom the dialog above, we can assume that....",
+    "answerOptions": [
+      {
+        "answer": "Ford can`t accept Sofia`s opinion.",
+        "isCorrect": true
+      },
+      { "answer": "Ford has the same opinion as Sofia." },
+      { "answer": "Sofia asks for Ford`s opinion." },
+      {
+        "answer": "Ford is confused with Sofia`s opinion."
+      }
+    ]
+  },
+  {
+    "question": "Rina: What do you think about this cake?\nRani: It`s good. The chocolate inside is melted.\nRina: Yeah, I am with you.\nWhat expression is used by Rina in the dialogue above?",
+    "answerOptions": [
+      { "answer": "Disagreeing with Rani`s opinion." },
+      { "answer": "Doubting Rani`s opinion." },
+      {
+        "answer": "Agreeing with Rani`s opinion.",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hates Rani`s opinion."
+      }
+    ]
+  },
+  {
+    "question": "Haitham: Tomorrow is father`s birthday. What should we do?\nKaveh: How about giving him a present?\nHaitham: ____. What shall we buy for him?\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "I am not with you" },
+      { "answer": "I don`t think it`s a good idea" },
+      { "answer": "That`s totally unacceptable" },
+      {
+        "answer": "I agree with you",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mona: ____.\nLisa: I don't agree with you. I think you just need some more practice. I will help you if you want.\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      {
+        "answer": "Math is so hard. I got a bad score again.",
+        "isCorrect": true
+      },
+      {
+        "answer": "I think this chapter is too easy."
+      },
+      {
+        "answer": "Mrs. Jean is a mean person, she scolded me too much."
+      },
+      {
+        "answer": "Math is so easy, I got the second highest score."
+      }
+    ]
+  }
+]

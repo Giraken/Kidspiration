@@ -1,0 +1,59 @@
+[
+  {
+    "question": "Giselle : What a beautiful dress you have.\nNingning : ____\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "I don`t get it" },
+      { "answer": "I don`t believe you" },
+      { "answer": "That`s very kind of you", "isCorrect": true },
+      {
+        "answer": "Nice work!"
+      }
+    ]
+  },
+  {
+    "question": "Hanni: Hyein, I heard you won the debate contest last week. Is that true?\nHyein: Yes, it`s true.\nHanni: Wow. ____! You deserve it, Hanni.\nHyein: Thank you very much.\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "I`m sorry to hear that" },
+      { "answer": "That`s great", "isCorrect": true },
+      { "answer": "I don`t get it" },
+      { "answer": "You look so beautiful" }
+    ]
+  },
+  {
+    "question": "Danielle: How talented you are, Minji.\nHaerin: Yes, it seems you dance a lot.\nMinji: Thank you very much. My older sister often asks me to dance with her.\nFrom the expression “I appreciate your effort” we know that….",
+    "answerOptions": [
+      {
+        "answer": "Danielle showing appreciation to Minji.",
+        "isCorrect": true
+      },
+      { "answer": "Danielle showing appreciation to Haerin." },
+      { "answer": "Minji asking for opinion to Haerin." },
+      { "answer": "Haerin asking for attention to Danielle." }
+    ]
+  },
+  {
+    "question": "Lily: I feel so sad lately\nLala: Why?\nLily: I lost the singing contest.\nLala: It`s okay, Lily. I appreciate your effort. You will win later if you work hard.\nLily: Thank you\nFrom the dialog above, we can conclude that…",
+    "answerOptions": [
+      { "answer": "Lala lost a singing contest." },
+      { "answer": "Lily appreciates Lala`s effort." },
+      {
+        "answer": "Lala will win in the next contest."
+      },
+      {
+        "answer": "Lala appreciates Lily for her effort.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Dita: Hey, Farhan. Have you finished last week's project?\nFarhan: Yes. I finished that project last night!\nDita: You finished it? ____, Farhan!\nFarhan: Yeah, thanks! It`s because you helped me a lot.\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "I`m really sorry to hear that" },
+      { "answer": "I`m glad you like it" },
+      { "answer": "Nice work!", "isCorrect": true },
+      {
+        "answer": "I`m following you"
+      }
+    ]
+  }
+]

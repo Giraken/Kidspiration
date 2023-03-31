@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Mr. Zon : May I have your attention? Now let`s say it together\nStudents : Yes, we are ready. We will use English in the English class.\nMr. Zon : Hey, Billy. Stop doing that, please.\nBilly : I`m so sorry, Sir. Yes, I am.\nThe teacher says, “May I have your attention, please?” What does he express?",
+    "answerOptions": [
+      { "answer": "He asks Billy to pay attention" },
+      { "answer": "He asks Billy`s opinion" },
+      { "answer": "He gives student`s attention" },
+      {
+        "answer": "He asks student to pay attention",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mrs. Sinta : Look at me! I`ve something to tell you.\nStudents : Yes, Ma'am.\nThe response being said by the students is the expression of….",
+    "answerOptions": [
+      { "answer": "Asking opinion" },
+      { "answer": "Giving attention" },
+      { "answer": "Responding attention", "isCorrect": true },
+      { "answer": "Giving opinion" }
+    ]
+  },
+  {
+    "question": "Chika: ….\nZahra: What is it, Chika?\nChika: I passed the first round of storytelling!\nZahra: Wow! That`s great!\nThe suitable expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "I`m sorry" },
+      { "answer": "Hey, look!", "isCorrect": true },
+      { "answer": "Do you understand?" },
+      { "answer": "How are you?" }
+    ]
+  },
+  {
+    "question": "Rose : Can I have your attention, please? We have to submit the assignment on our teacher`s table now, have you finished it yet?\nLisa : Yes, I have.\nJisoo : What do you think if we submit it before break time?\nJennie : Unfortunately, I haven`t finished it.\nWhich statement is the expression of asking for attention?",
+    "answerOptions": [
+      { "answer": "Have you finished it yet?" },
+      { "answer": "Unfortunately, I haven`t finished it." },
+      {
+        "answer": "Can I have your attention, please?",
+        "isCorrect": true
+      },
+      {
+        "answer": "What do you think if we submit it before break time?"
+      }
+    ]
+  },
+  {
+    "question": "Momo: _____! Something bad happened to me yesterday. My mother was very angry with me.\nSana: Tell me more about it\nMomo: I lost her necklace while swimming yesterday.\nSana: Oh no!!\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "I`m sorry" },
+      { "answer": "What do you think?" },
+      { "answer": "In my opinion" },
+      {
+        "answer": "Listen!",
+        "isCorrect": true
+      }
+    ]
+  }
+]

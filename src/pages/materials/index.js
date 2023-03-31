@@ -45,7 +45,7 @@ const index = ({ material }) => {
             {material.map(({ slug, frontmatter }) => (
               <Link href={`/materials/${slug}`} key={slug}>
                 <div className="w-[35vw] h-[35vw] lg:w-[20vw] lg:h-[20vw] rounded-xl shadow flex flex-col overflow-hidden lg:hover:-translate-y-3 lg:hover:shadow-xl lg:hover:scale-105 duration-200 active:scale-90">
-                  <div className="w-full h-[45%] relative border border-b-2">
+                  <div className="w-full h-[45%] relative border-b-2">
                     <Image
                       src={`/${frontmatter.socialImage}`}
                       alt={frontmatter.title}

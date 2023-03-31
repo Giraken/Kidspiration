@@ -1,0 +1,56 @@
+[
+  {
+    "question": "What is the best response to the lack of understanding for the expression `Do you follow me?`",
+    "answerOptions": [
+      { "answer": "I`m following you" },
+      { "answer": "I`m with you" },
+      { "answer": "What do you mean?" },
+      {
+        "answer": "Excuse me, but I`m not following you",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Nayeon: Do you know what I mean?\nJihyo: I know what you mean\nWhat expression is used by Jihyo in the dialogue above?\n",
+    "answerOptions": [
+      { "answer": "Checking for understanding" },
+      { "answer": "Showing lacking of understanding" },
+      { "answer": "Showing understanding", "isCorrect": true },
+      { "answer": "Asking for attention" }
+    ]
+  },
+  {
+    "question": "Karina: Do you understand the homework?\nWinter: ____. How about you?\nKarina: No, I don`t. Can you help me to explain it to me?\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "Listen to me!" },
+      { "answer": "I don`t understand" },
+      { "answer": "Attention please" },
+      { "answer": "Yes, I understand.", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Ryujin: What should I do, Yeji?\nYeji : You can walk straight to the front of the 7-11 store. After that you will find a blue house. Is this clear?\nRyujin: Oh, I see, Yeji.\nFrom the expression `Oh, I see, Yeji` we know that Ryujin is....",
+    "answerOptions": [
+      { "answer": "Showing understanding", "isCorrect": true },
+      { "answer": "Showing appreciation" },
+      {
+        "answer": "Showing lack of understanding"
+      },
+      {
+        "answer": "Checking for understanding"
+      }
+    ]
+  },
+  {
+    "question": "Chae: Do you get what she said?\nYuna: Yes, she said that we would speak English in our class.\nWhat is Chae doing?",
+    "answerOptions": [
+      { "answer": "Asking for attention" },
+      { "answer": "Checking for understanding", "isCorrect": true },
+      { "answer": "Showing understanding" },
+      {
+        "answer": "Showing appreciation"
+      }
+    ]
+  }
+]

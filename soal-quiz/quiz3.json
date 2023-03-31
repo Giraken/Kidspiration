@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Indi: Hello, Nana. Why do you look sad?\nNana: Hello, Indi. I forgot to bring my pencil color.\nIndi: Don`t be sad. You can borrow mine.\nNana: Really? Thanks a lot, Indi!\nIndi: You are welcome, Nana.\nFrom the dialog above, Nana is…",
+    "answerOptions": [
+      { "answer": "helping Indi" },
+      { "answer": "is apologizing to Indi" },
+      { "answer": "thanking Indi", "isCorrect": true },
+      { "answer": "greeting Indi" }
+    ]
+  },
+  {
+    "question": "Atha: Hi, Lita. Can we talk?\nLita: Of course. What's the matter?\nAtha: I want to apologize to you.\nLita: For what?\nAtha: I am so sorry. I couldn't come to your birthday party.\nLita: _______ Atha.\nThe best answer to respond is ..",
+    "answerOptions": [
+      { "answer": "No problem", "isCorrect": true },
+      { "answer": "Thanks a lot" },
+      { "answer": "Forgive me" },
+      { "answer": "See you tomorrow" }
+    ]
+  },
+  {
+    "question": "What do you say if your Mom gives you a birthday present?",
+    "answerOptions": [
+      { "answer": "No problem, Mom" },
+      { "answer": "Thank you so much, Mom!", "isCorrect": true },
+      { "answer": "Forgive me, my Mom" },
+      { "answer": "Forget it, Mom" }
+    ]
+  },
+  {
+    "question": "Gema : Excuse me, Sir. I'm sorry for coming late.\nTeacher : ___. But, next time you should be on time.\nThe correct expression to complete the dialogue is…",
+    "answerOptions": [
+      { "answer": "No, thank you" },
+      { "answer": "Thanks a lot" },
+      { "answer": "Pardon me" },
+      { "answer": "No problem", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What do you say when you lose your friend`s pen?",
+    "answerOptions": [
+      { "answer": "I`m glad to lose it" },
+      { "answer": "I`m really sorry, I lost it", "isCorrect": true },
+      { "answer": "Thank you very much for losing my pen" },
+      { "answer": "It`s not a big problem" }
+    ]
+  }
+]

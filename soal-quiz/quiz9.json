@@ -1,0 +1,71 @@
+[
+  {
+    "question": "What is the best wish and hope when your friend graduated from school?",
+    "answerOptions": [
+      { "answer": "I hope you win the contest" },
+      { "answer": "I hope you succeed someday.", "isCorrect": true },
+      { "answer": "I wish you happiness." },
+      {
+        "answer": "I hope you`ll get better soon."
+      }
+    ]
+  },
+  {
+    "question": "Rahma: What`s going on? You look sad.\nTony: My father has a debt, a very big debt, and we must pay it next week. \nRahma : Oh my God. I hope your family can fix this soon.\nTony: Thank you\nWhich sentence expresses wish and hope?",
+    "answerOptions": [
+      { "answer": "What`s going on?" },
+      { "answer": "Oh my god." },
+      {
+        "answer": "I hope your family can fix this soon.",
+        "isCorrect": true
+      },
+      { "answer": "Thank you." }
+    ]
+  },
+  {
+    "question": "What is the best wish and hope when your friend is sick?",
+    "answerOptions": [
+      {
+        "answer": "I hope you`re having fun there."
+      },
+      { "answer": "I hope you die soon." },
+      {
+        "answer": "I hope you`ll get better soon.",
+        "isCorrect": true
+      },
+      { "answer": "I hope you will come home soon." }
+    ]
+  },
+  {
+    "question": "Chandra: Wow, that house is so big.\nRania: Yeah. It looks beautiful.\nChandra: I wish I lived in a big house.\nRania: Me too.\nFrom the 3rd line of dialog, it can conclude that…",
+    "answerOptions": [
+      {
+        "answer": "Chandra`s house right now is not really big.",
+        "isCorrect": true
+      },
+      {
+        "answer": "Rania wants to live in a big house with Chandra."
+      },
+      {
+        "answer": "Chandra wants to build a big house."
+      },
+      {
+        "answer": "Rania will move to a big house."
+      }
+    ]
+  },
+  {
+    "question": "Dara: What happened with your hands?\nFarel: I had a car crash yesterday.\nDara: I`m sorry to hear that. Why is that happen?\nFarel: It`s my fault. I wish I hadn`t driven at high speed.\nFrom the dialog above, it can conclude that….",
+    "answerOptions": [
+      { "answer": "Farel had a car crash with Dara." },
+      {
+        "answer": "Farel hurt his hand because he was driving a car."
+      },
+      { "answer": "Farel regrets that he had a car crash." },
+      {
+        "answer": "Farel wishes to be able to turn back time and avoid a car accident. ",
+        "isCorrect": true
+      }
+    ]
+  }
+]

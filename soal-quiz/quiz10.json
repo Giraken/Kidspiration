@@ -1,0 +1,63 @@
+[
+  {
+    "question": "Please text me when you arrived at home ___ I know you are safe",
+    "answerOptions": [
+      { "answer": "to" },
+      { "answer": "in order to" },
+      { "answer": "so that", "isCorrect": true },
+      {
+        "answer": "in order not to"
+      }
+    ]
+  },
+  {
+    "question": "Read your text silently ____ disturb the others",
+    "answerOptions": [
+      { "answer": "to" },
+      { "answer": "in order to" },
+      { "answer": "so that" },
+      {
+        "answer": "in order not to",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "I will go to the university ____ continue my studies",
+    "answerOptions": [
+      { "answer": "to", "isCorrect": true },
+      { "answer": "in order to" },
+      { "answer": "so that" },
+      {
+        "answer": "in order not to"
+      }
+    ]
+  },
+  {
+    "question": "Some countries need you to have visa ___ enter the country",
+    "answerOptions": [
+      { "answer": "to" },
+      { "answer": "in order to", "isCorrect": true },
+      { "answer": "so that" },
+      {
+        "answer": "in order not to"
+      }
+    ]
+  },
+  {
+    "question": "Emma: Tom, stop reading comics. You have an assignment for tomorrow.\nTom: I don`t think so. I finished it yesterday.\nEmma: No. It`s a new assignment.\nTom: Really?\nEmma: Yes. Hurry up and finish it so that you can read the comics again.\nWhat does Emma`s last sentence mean?",
+    "answerOptions": [
+      {
+        "answer": "If Tom finishes reading the comic, he can work on his assignment. "
+      },
+      {
+        "answer": "Tom finished the assignment yesterday."
+      },
+      { "answer": "Emma helped To finish a new assignment." },
+      {
+        "answer": "If Tom finishes the assignment, he can continue to read the comics.",
+        "isCorrect": true
+      }
+    ]
+  }
+]
